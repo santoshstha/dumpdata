@@ -4,8 +4,6 @@
     { "id": 2, "name": "Peaches", "price": "$5" },
     { "id": 3, "name": "santy", "price": "$95" },
     { "id": 4, "name": "santynew", "price": "$95" },
-    { "id": 5, "name": "test", "price": "$97" }
-    
-    
+    { "id": 5, "name": "test", "price": "$99" }
   ] 
 }
